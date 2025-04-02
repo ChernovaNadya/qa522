@@ -1,0 +1,35 @@
+commit 1435049121d720beae7909ef7a49857febb8f8e4
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Wed Apr 2 19:08:17 2025 +0300
+
+    напилала hello
+
+commit dcc56184286a3953c79224de5c7bb5484abe8170
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Mon Mar 31 21:37:28 2025 +0300
+
+    добавлена строка-скинуть скрин
+
+commit 2a300b429398943a43c1e0b834d7cc6f75e8598d
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Mon Mar 31 21:35:53 2025 +0300
+
+    добавлена строка-домашняя работа
+
+commit a2d316922b3e8a71f4f71807d3e40ce1c0303439
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Mon Mar 31 21:29:49 2025 +0300
+
+    добавили еще одну строчку
+
+commit 5dbf43d3407ed348ab82bd51225657b8c75b160f
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Mon Mar 31 21:12:45 2025 +0300
+
+    Добавили строчку
+
+commit d9f8df88b392528aa3c17975496d1f54461385c4
+Author: ChernovaNadya <chernovan1905@mail.ru>
+Date:   Mon Mar 31 21:04:46 2025 +0300
+
+    создали папку и добавили пустой файл
